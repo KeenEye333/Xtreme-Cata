@@ -1,2 +1,2 @@
 # Xtreme-Cata
-Lorem Ipsum
+Lorem Ipsum Lorem Ipsum
