@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "xtreme-cata",
+    "name": "Xtreme Cata",
+    "authors": [ "KeenEye333" ],
+    "maintainers": [ "KeenEye333" ],
+    "description": "Lorem Ipsum",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]
