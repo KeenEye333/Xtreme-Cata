@@ -5,8 +5,9 @@
     "name": "Xtreme Cata",
     "authors": [ "KeenEye333" ],
     "maintainers": [ "KeenEye333" ],
-    "description": "Lorem Ipsum",
+    "description": "Lorem Ipsum \n<color_light_blue>Mod compability</color>: BN 0.5.2",
     "category": "content",
+    "version": "1.0 Gold",
     "dependencies": [ "bn" ]
   }
 ]
